@@ -1,0 +1,49 @@
+.post {
+    border: 10px  solid black;
+    width: 500px;
+    margin: auto;
+}
+
+.post-header {
+    display:flex;
+    justify-content: space-between;
+}
+
+.html-icon {
+    font-size: 40px;
+    margin: 5px;
+}
+
+
+
+.elipsis {
+    font-size: 35 px;
+    margin: 5px;
+}
+
+.name {
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-size: 15px;
+    flex-direction: column;
+}
+
+.image {
+    width: 100%;
+}
+
+.post-footer {
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+    font-size: 25px;
+}
+
+.caption {
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-size: 15px;
+    margin: 10px;
+}
